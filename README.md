@@ -5,5 +5,6 @@ When I was working on a project related to displaying some stock market data, I 
 
 By Munyaradzi Togarepi (Papi Pseudo)
 
-##Dependencies
-R
+## Dependencies
+### 1. React JS
+### 2. Material UI (MUI)
